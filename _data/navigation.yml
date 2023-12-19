@@ -1,5 +1,12 @@
 - name: Docs
   link: /docs/
+- name: Resume/Curriculum
+  link: /#
+  dropdown:
+    - name: Curriculum
+      link: /resume_pt/
+    - name: Resume
+      link: /resume_en/
 - name: Example Pages
   link: /#
   dropdown:

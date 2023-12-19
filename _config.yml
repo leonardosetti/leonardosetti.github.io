@@ -1,19 +1,20 @@
 # Site Settings
-lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+lang: pt-br
+title: Leonardo Setti
+tagline: -->Tagline<--
+email: leonardo.setti@protonmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Portfolio Leonardo Setti - Test
+baseurl: ""
+url: "/"
 permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+favicon: "/favicon.png"
+google_analytics: G-N120E8C1C3
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
+theme_color: '#3C2179'
+fixed_navbar: top
+direction: ltr #direction: one of <ltr, rtl, auto>, default: ltr
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -23,7 +24,8 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: setti
+
 
 
 plugins:
@@ -64,7 +66,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Leonardo Setti"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
