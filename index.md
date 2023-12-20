@@ -1,8 +1,10 @@
 ---
-title: Leonardo Setti
-subtitle: Finalmente um Portfolio
+title: 
+subtitle: 
 layout: page
 # callouts: home_callouts
+description: Sou Leonardo Setti, um entusiasta do Software Livre e Open Source, trabalho com Qualidade de Software
+hero_image: /img/main.jpeg
 show_sidebar: false
 ---
 
@@ -33,7 +35,6 @@ _And, I'll be there!_
 [<img alt="Static Badge" src="https://img.shields.io/badge/%3Awq!-%23019733?style=plastic&logo=vim&logoColor=%23019733&labelColor=%23808080&color=%23019733">](#hi-there-how-are-you)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)

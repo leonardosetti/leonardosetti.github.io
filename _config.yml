@@ -1,16 +1,15 @@
 # Site Settings
 lang: pt-br
-title: Leonardo Setti
-tagline: -->Tagline<--
+title: Robot Meal
+tagline: Profile
 email: leonardo.setti@protonmail.com
-description: >
-  Portfolio Leonardo Setti - Test
+description: >- 
 baseurl: ""
 url: "/"
 permalink: pretty
-favicon: "/favicon.png"
+favicon: "/img/favicon_prpl.png"
 google_analytics: G-N120E8C1C3
-#gh_sponsor: chrisrhymes
+#gh_sponsor: none
 #hide_share_buttons: true
 theme_color: '#3C2179'
 fixed_navbar: top

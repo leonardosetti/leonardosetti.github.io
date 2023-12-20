@@ -1,26 +1,29 @@
-- name: Docs
-  link: /docs/
-- name: Resume/Curriculum
+#- name: Docs
+#  link: /docs/
+- name: Resume
   link: /#
   dropdown:
-    - name: Curriculum
+    - name: Português
       link: /resume_pt/
-    - name: Resume
+    - name: English
       link: /resume_en/
-- name: Example Pages
-  link: /#
-  dropdown:
-    - name: Landing Page With Callouts
-      link: /landing/
-    - name: Sponsors Page
-      link: /sponsors/
-    - name: Image Gallery
-      link: /gallery/
-    - name: Products
-      link: /products/
-    - name: Recipe Page
-      link: /example-recipe/
-    - name: Showcase
-      link: /showcase/
-- name: Blog
-  link: /blog/
+- name: Sobre
+  link: /about/
+
+#- name: Example Pages
+#  link: /#
+#  dropdown:
+#    - name: Landing Page With Callouts
+#      link: /landing/
+#    - name: Sponsors Page
+#      link: /sponsors/
+#    - name: Image Gallery
+#      link: /gallery/
+#    - name: Products
+#      link: /products/
+#    - name: Recipe Page
+#      link: /example-recipe/
+#    - name: Showcase
+#      link: /showcase/
+#- name: Blog
+#  link: /blog/

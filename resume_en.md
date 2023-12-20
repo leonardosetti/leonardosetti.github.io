@@ -1,13 +1,12 @@
 ---
-title: Leonardo Setti
-subtitle: Curriculum
+title: SQA Analyst
+subtitle:
 layout: page
 description: Um breve resumo da carreira como profissional em SQA
 hero_image: /img/hero_st.png
 
 show_sidebar: false
 ---
-# Quality Assurance Analyst.
 
 [<img alt="Static Badge" src="https://img.shields.io/badge/%40Contact-purple?style=plastic&logo=proton&labelColor=white&color=rgb(109%2074%20255)">](mailto:leonardo.setti@protonmail.com){:target="_blank"}
 [<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2">](https://www.linkedin.com/in/leonardo-setti/){:target="_blank"}
