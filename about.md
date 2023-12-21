@@ -1,39 +1,31 @@
 ---
 title: Sobre Mim
-subtitle: Um SQA em evolução
+subtitle: Um SQA
 layout: page
 description: Sou Leonardo Setti, um entusiasta do Software Livre e Open Source, trabalho com Qualidade de Software
 hero_image: /img/lens_focus_alp.png
+hero_height: is-small
 show_sidebar: false
 ---
+[![Static Badge](https://img.shields.io/badge/Cucumber-%2323D96C?logo=cucumber&logoColor=black&labelColor=%2323D96C)](https://cucumber.io/){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?logo=selenium&logoColor=grey&labelColor=%2343B02A)](https://www.selenium.dev/){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?logo=cypress&logoColor=grey&labelColor=%2369D3A7)](https://www.cypress.io/){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=gray&labelColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=%23dad8d8&labelColor=%23181717)](https://github.com/leonardosetti){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=archlinux&logoColor=%23dad8d8&labelColor=%231793D1)](https://archlinux.org/){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23dad8d8&labelColor=%230A66C2)](https://linkedin.com/in/leonardo-setti){:target="_blank"}
 
 
-### Hi there! How are you?
+Olá! Meu nome é Leonardo Setti, mas pode me chamar de Leo ou Setti. A tecnologia me fascina desde os anos 2000, quando eu era criança e me perguntava *como funciona a internet* ou *o que acontece se eu apertar esse botão?* Essa curiosidade me levou a me tornar engenheiro de qualidade de software, trabalhando na área desde 2008 atuando em diferentes seguimentos de mercado, tais como Softwares governamentais, telefonia, produtos financeiros, aplicativo móveis entre outros. Também sou apaixonado por software livre e algumas distribuições Linux, com suas vastas possibilidades e pacotes.
 
-[<img src="https://img.shields.io/badge/NERD-orange?style=for-the-badge&logo=archlinux&labelColor=black" />](#)
-[<img src="https://img.shields.io/badge/AUTOMATION-orange?style=for-the-badge&logo=selenium&labelColor=black" />](#)
-[<img src="https://img.shields.io/badge/Cypress-orange?style=for-the-badge&logo=cypress&labelColor=%23010a20" />](#)
-[<img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&labelColor=black" />](#)
-[<img src="https://img.shields.io/badge/Test-orange?style=for-the-badge&logo=cucumber&labelColor=%23010a20" />](#)
-[<img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black" />](https://linkedin.com/in/leonardo-setti){:target="_blank"}
+Com minha atuação em constante desenvolvimento, para além da garantia e controle de qualidade de software, com muita engenharia reversa, há uma coisa que é inevitável: o *código*. Por isto busco também habilidades em automação de testes de software, com seus códigos, padrões, técnicas, linguagens de programação novas e antigas, frameworks e aquela enorme pilha de outras coisas que se espera que a gente conheça e domine. É, no mínimo, desafiador.
 
-My name is Leonardo Setti, but you can call me Leo or Setti. Technology has fascinated me since the early 2000s, when I wondered "*how does the internet work?*" or "*what would happen if I pressed this button*?
-
-Because of this curiosity, I became a software quality engineer, working in software engineering since 2008 until now. I am also passionate about open source software and a few Linux distributions and their package ecosystem!
-
----
-
-#### The sound of inevitability
-
-As I am involved in software development, quality assurance, and a lot of reverse engineering, there is one thing I cannot avoid or escape: **coding!** It is ubiquitous these days, and as part of my desired skills, it is there: ***test automation*** and everything that comes with it, acronyms, patterns, techniques, older or newer programming languages, frameworks, approaches, tools, methodologies, and so on. Yes! It is a colossal pile of things we are supposed to know and, of course, experienced.
-
-But there is another side to it: the character, the main actor with the experience and confidence to achieve new knowledge, the soft skills over the hard skills.
-
-So, now I am struggling and working hard to reach the level of automation hero and all those shiny pendants!
-_And, I'll be there!_
-
-[<img alt="Static Badge" src="https://img.shields.io/badge/%3Awq!-orange?logo=vim&logoColor=green&labelColor=grey"/>](#hi-there-how-are-you)
+Atualmente, minhas principais áreas de interesse são as que formam um _**SDET** (Software Developer Engineer in Test)_, ou seja, um profissional que tem capacidade de atuação completa como desenvolvedor de software, mas com foco na área de qualidade e testes.
 
 ---
 
-![[Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)](https://camo.githubusercontent.com/23d77fc8664ee8db0d8b71ce77320f86c16dd5dff9c12fe4f02d9b4f70a16191/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c656f6e6172646f7365747469267468656d653d67727576626f782673686f775f69636f6e733d7472756526686964653d73746172732c6973737565732c636f6e7472696273){:target="_blank"} ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
+
+![Leonardo Setti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=transparent&show_icons=true&hide=stars,issues,contribs)
+
+[![Static Badge](https://img.shields.io/badge/%3Awq!-%23019733?logo=vim&logoColor=%2380feaa&labelColor=%23019733)](/)

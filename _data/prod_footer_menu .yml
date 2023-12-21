@@ -1,10 +1,11 @@
 - name: Home
   link: /
-- name: Sobre
+- name: SOBRE
   link: /about/
-- name: Rsume
+- name: RESUME
   link: /resume_pt/
-- name: GitHub
+- name: GITHUB
   link: https://github.com/leonardosetti
-- name: LinkedIn
+- name: LINKEDIN
   link: https://br.linkedin.com/in/leonardo-setti
+  
