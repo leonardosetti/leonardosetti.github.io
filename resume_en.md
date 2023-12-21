@@ -1,8 +1,9 @@
 ---
-title: SQA Analyst
+title: SQA Analyst<br><br>
 subtitle:
 layout: page
 description: Um breve resumo da carreira como profissional em SQA
+hero_height: is-small
 hero_image: /img/hero_st.png
 
 show_sidebar: false

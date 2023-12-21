@@ -1,9 +1,10 @@
 ---
-title: Analista SQA
+title: Analista SQA<br><br>
 subtitle: 
 layout: page
 description: 
 hero_image: /img/hero_st.png
+hero_height: is-small
 show_sidebar: false
 ---
 

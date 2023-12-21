@@ -1,6 +1,6 @@
 ---
-title: Sobre Mim
-subtitle: Um SQA
+title: <br>Sobre Mim
+subtitle: Um SQA<br>
 layout: page
 description: Sou Leonardo Setti, um entusiasta do Software Livre e Open Source, trabalho com Qualidade de Software
 hero_image: /img/lens_focus_alp.png
