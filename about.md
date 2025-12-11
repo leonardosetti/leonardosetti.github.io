@@ -16,11 +16,15 @@ show_sidebar: false
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23dad8d8&labelColor=%230A66C2)](https://linkedin.com/in/leonardo-setti){:target="_blank"}
 
 
-Olá! Meu nome é Leonardo Setti, mas pode me chamar de Leo ou Setti. A tecnologia me fascina desde os anos 2000, quando eu era criança e me perguntava *como funciona a internet* ou *o que acontece se eu apertar esse botão?* Essa curiosidade me levou a me tornar engenheiro de qualidade de software, trabalhando na área desde 2008 atuando em diferentes seguimentos de mercado, tais como Softwares governamentais, telefonia, produtos financeiros, aplicativo móveis entre outros. Também sou apaixonado por software livre e algumas distribuições Linux, com suas vastas possibilidades e pacotes.
+# Olá! Meu nome é Leonardo Setti
 
-Com minha atuação em constante desenvolvimento, para além da garantia e controle de qualidade de software, com muita engenharia reversa, há uma coisa que é inevitável: o *código*. Por isto busco também habilidades em automação de testes de software, com seus códigos, padrões, técnicas, linguagens de programação novas e antigas, frameworks e aquela enorme pilha de outras coisas que se espera que a gente conheça e domine. É, no mínimo, desafiador.
+Mas pode me chamar de Leo ou Setti. Desde os anos 2000, quando era criança, a tecnologia me fascina — sempre me perguntava como funcionava a internet ou o que acontecia se eu apertasse aquele botão. Essa curiosidade me levou a trilhar o caminho da engenharia de qualidade de software, onde atuo desde 2008 em diversos segmentos: softwares governamentais, telefonia, produtos financeiros, aplicativos móveis e muito mais. Sou apaixonado por software livre e pelas infinitas possibilidades das distribuições Linux, explorando suas ferramentas e pacotes com curiosidade de verdadeiro entusiasta.
 
-Atualmente, minhas principais áreas de interesse são as que formam um _**SDET** (Software Developer Engineer in Test)_, ou seja, um profissional que tem capacidade de atuação completa como desenvolvedor de software, mas com foco na área de qualidade e testes.
+Ao longo da minha trajetória, fui além do controle e garantia de qualidade: mergulhei na engenharia reversa, na automação de testes e, claro, no código. Busco sempre aprender sobre novas linguagens, frameworks, padrões e técnicas, porque o universo da qualidade de software exige muito mais do que apenas executar testes — exige pensamento crítico, criatividade e uma vontade constante de entender o que está por trás das máquinas. É, no mínimo, desafiador, mas também extremamente gratificante.
+
+Hoje, minhas áreas de interesse giram em torno do perfil de SDET (Software Developer Engineer in Test): alguém que atua como desenvolvedor de software, mas com foco total na qualidade e nos testes. Gosto de encarar problemas complexos, automatizar processos e garantir que o software entregue seja confiável, seguro e funcional — porque, como dizem os grandes mestres da engenharia, nunca devemos aceitar testes vermelhos ou entregar software com falhas, mesmo que pareçam pequenas.
+
+Se você chegou até aqui, saiba que adoro conversar sobre tecnologia, compartilhar experiências e aprender com quem também ama o que faz. Sinta-se à vontade para explorar, perguntar ou bater um papo sobre qualidade, automação, Linux ou qualquer coisa que mexa com o nosso mundo digital!
 
 ---
 
