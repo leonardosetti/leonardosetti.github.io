@@ -1,9 +1,9 @@
 ---
-title: <br><br><br><br><br><br><br><br>Time to Meal!
-subtitle: <br>
+title: Time to Meal!
+subtitle: Welcome to my portfolio
 
 layout: page
-description: Leonardo Setti, um FATECANO entusiasta do Software Livre e Open Source, trabalho com Qualidade de Software
+description: Leonardo Setti, entusiasta do Software Livre e Open Source, especialista em Qualidade de Software
 hero_image: /img/main.jpeg
 hero_height: is-small
 show_sidebar: false

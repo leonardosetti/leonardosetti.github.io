@@ -1,8 +1,8 @@
 ---
-title: <br>Sobre Mim
-subtitle: Um SQA<br>
+title: Sobre Mim
+subtitle: Quality Assurance Professional
 layout: page
-description: Sou Leonardo Setti, um entusiasta do Software Livre e Open Source, trabalho com Qualidade de Software
+description: Sou Leonardo Setti, entusiasta do Software Livre e Open Source, especialista em Qualidade de Software
 hero_image: /img/lens_focus_alp.png
 hero_height: is-small
 show_sidebar: false

@@ -1,8 +1,8 @@
 ---
-title: Analista SQA<br><br>
-subtitle: 
+title: Analista SQA
+subtitle: Curriculum Vitae
 layout: page
-description: 
+description: Um breve resumo da minha carreira como profissional em SQA
 hero_image: /img/hero_st.png
 hero_height: is-small
 show_sidebar: false
@@ -23,7 +23,7 @@ Matão, SP, Brasil | Preferência por trabalho remoto
 
 ### Perfil Executivo
 
-Profissional SQA sênior com 17+ anos de experiência em entrega de cobertura de testes excepcional em aplicativos móveis, web, fintech e plataformas corporativas para empresas da Fortune 500. Expertise em gestão de estratégias SQA, mitigação de riscos e revisão analítica de requisitos. Líder estratégico e mentor que treinou e orientou mais de 40 profissionais QA, promovendo uma cultura de qualidade e impulsionando a melhoria de processos durante todo o ciclo de desenvolvimento de software. Experiência sólida em ambientes ágeis dinâmicos e distribuídos (Scrum, Kanban, SAFe).
+Profissional SQA sênior com mais de 17 anos de experiência em entrega de cobertura de testes excepcional em aplicativos móveis, web, fintech e plataformas corporativas para empresas da Fortune 500. Expertise em gestão de estratégias SQA, mitigação de riscos e revisão analítica de requisitos. Líder estratégico e mentor que treinou e orientou mais de 40 profissionais QA, promovendo uma cultura de qualidade e impulsionando melhorias de processos durante todo o ciclo de desenvolvimento de software. Possui experiência sólida em ambientes ágeis dinâmicos e distribuídos (Scrum, Kanban, SAFe).
 
 ---
 
@@ -32,10 +32,10 @@ Profissional SQA sênior com 17+ anos de experiência em entrega de cobertura de
 | Área de Força                 | Contribuições e Impacto                                           |
 |------------------------------|------------------------------------------------------------------|
 | Propriedade e Otimização de Processos | Projetou, revisou e avaliou processos QA (Plano de Teste, Caso de Teste, Estratégia de Teste) em diversas organizações. Obteve redução de 30% no tempo de ciclo por meio de refinamento de fluxo de trabalho e iniciativas sistemáticas de melhoria. |
-| Liderança de Equipe e Mentoria     | Liderou e coordenou recursos compartilhados de equipes QA. Orientou 40+ profissionais QA e atuou como facilitador do conhecimento de regras de negócio para equipes QA e desenvolvimento. |
-| Gestão de Riscos e Advocacia da Qualidade | Recebeu o prêmio "High Five Award" por identificação e prevenção excepcional de problemas. Garantiu zero defeitos em produção em grandes contas da Fortune 500. Aplica testes baseados em riscos para identificação e priorização de áreas de alto risco. |
-| Comunicação com Stakeholders        | Inglês fluente (nível C2) permitiu colaboração eficaz entre equipes. Forneceu relatórios diários sobre resultados de testes e métricas críticas de qualidade para stakeholders. |
-| Adaptabilidade e Resiliência        | Exercida liderança internacional (Angola, Brasil). Apoiou processos críticos durante a fusão corporativa da Vivo e Telefónica, adaptando estratégias e processos SQA. |
+| Liderança de Equipe e Mentoria     | Liderou e coordenou recursos compartilhados de equipes QA. Orientou mais de 40 profissionais QA e atuou como facilitador do conhecimento de regras de negócio para equipes QA e desenvolvimento. |
+| Gestão de Riscos e Advocacia da Qualidade | Recebeu o prêmio "High Five Award" por identificação e prevenção excepcional de problemas. Garantiu zero defeitos em produção em grandes contas da Fortune 500. Aplicou testes baseados em riscos para identificação e priorização de áreas de alto risco. |
+| Comunicação com Stakeholders        | Inglês fluente (nível C2) permitiu colaboração eficaz entre equipes. Fornecia relatórios diários sobre resultados de testes e métricas críticas de qualidade para stakeholders. |
+| Adaptabilidade e Resiliência        | Exerceu liderança internacional (Angola, Brasil). Apoiou processos críticos durante a fusão corporativa da Vivo e Telefónica, adaptando estratégias e processos SQA. |
 
 ---
 
@@ -99,13 +99,13 @@ Profissional SQA sênior com 17+ anos de experiência em entrega de cobertura de
 ### Educação & Certificações
 
 **Bacharelado em Análise e Desenvolvimento de Sistemas**  
-FATEC – Taquaritinga, SP | Dezembro 2026 (previsão)
+FATEC – Taquaritinga, SP | Previsão de conclusão: Dezembro 2026
 
 **Tecnologia em Processamento de Dados** (90% dos créditos concluídos)  
-FATEC | Dezembro 2008
+FATEC | Concluído em Dezembro 2008
 
 **Técnico em Informática**  
-E.T.E.C. Sylvio de Matos Carvalho | 2002
+E.T.E.C. Sylvio de Matos Carvalho | Concluído em 2002
 
 **Certificações**  
 - Certified Tester Foundation Level (CTFL ISTQB): 12-CTFL-01817-BR  

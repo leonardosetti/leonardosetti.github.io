@@ -1,11 +1,10 @@
 ---
-title: SQA Analyst<br><br>
-subtitle:
+title: SQA Analyst
+subtitle: Professional Resume
 layout: page
-description: Um breve resumo da carreira como profissional em SQA
+description: A comprehensive overview of my career as a Senior SQA professional
 hero_height: is-small
 hero_image: /img/hero_st.png
-
 show_sidebar: false
 ---
 
@@ -25,7 +24,7 @@ Matão, SP, Brazil | Remote Work Preferred
 
 ### Executive Profile
 
-Senior SQA professional with 17+ years of experience delivering exceptional test coverage across mobile apps, web, fintech, and enterprise platforms for Fortune 500 companies. Expertise in managing SQA strategies, risk mitigation, and analytical requirements review. Strategic leader and mentor who has trained and coached over 40 QA professionals, fostering a quality culture and driving process enhancement throughout the Software Development Cycle. Proven success in dynamic, distributed Agile environments (Scrum, Kanban, SAFe).
+Senior SQA professional with over 17 years of experience delivering exceptional test coverage across mobile apps, web, fintech, and enterprise platforms for Fortune 500 companies. Expertise in managing SQA strategies, risk mitigation, and analytical requirements review. Strategic leader and mentor who has trained and coached over 40 QA professionals, fostering a quality culture and driving process enhancement throughout the Software Development Lifecycle. Proven success in dynamic, distributed Agile environments (Scrum, Kanban, SAFe).
 
 ---
 
@@ -34,7 +33,7 @@ Senior SQA professional with 17+ years of experience delivering exceptional test
 | Area of Strength              | Leadership Contributions and Impact                                   |
 |------------------------------|---------------------------------------------------------------------|
 | Process Ownership & Optimization | Designed, reviewed, and evaluated QA processes (Test Plan, Test Case, Test Strategy) across multiple organizations. Achieved 30% cycle time reduction through workflow refinement and systematic improvement initiatives. |
-| Team Leadership & Mentorship      | Led and coordinated shared QA team resources. Mentored 40+ QA professionals and facilitated business rule knowledge transfer across QA and development teams. |
+| Team Leadership & Mentorship      | Led and coordinated shared QA team resources. Mentored over 40 QA professionals and facilitated business rule knowledge transfer across QA and development teams. |
 | Risk Management & Quality Advocacy | Awarded "High Five Award" for exceptional problem identification and prevention. Maintained zero production defects on major Fortune 500 accounts. Applied risk-based testing for high-risk area identification and prioritization. |
 | Stakeholder Communication         | Fluent English (C2 level) enabled seamless cross-functional collaboration. Delivered daily reporting on test outcomes and critical quality metrics to stakeholders. |
 | Adaptability & Resilience         | Provided international leadership (Angola, Brazil). Supported critical processes during the corporate merger of Vivo and Telefónica, adapting SQA strategies and processes. |
@@ -101,7 +100,7 @@ Senior SQA professional with 17+ years of experience delivering exceptional test
 ### Education & Certifications
 
 **B.S. Analysis & Systems Development**  
-FATEC – Taquaritinga, SP | Expected December 2026
+FATEC – Taquaritinga, SP | Expected Completion: December 2026
 
 **Technology in Data Processing** (90% credits completed)  
 FATEC | Completed December 2008
